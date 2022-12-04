@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RohitSulake
-- 👀 I’m interested in Cyber Security and IoT
-- 💞️ I’m looking to collaborate on any project related to Cyber Security or IoT
+- 👀 I’m interested in Cyber Security, IoT and Cloud
+- 💞️ I’m looking to collaborate on any project related to Cyber Security
 
 <!---
 RohitSulake/RohitSulake is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
