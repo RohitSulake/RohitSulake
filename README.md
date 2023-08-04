@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RohitSulake
-- 👀 I’m interested in Cyber Security, IoT and Cloud
+- 👀 I’m interested in Cyber Security, IoT and AI/ML
 - 💞️ I’m looking to collaborate on any project related to Cyber Security
 
 <!---
